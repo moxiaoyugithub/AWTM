@@ -1,0 +1,9 @@
+{
+	"channel_axis":1,
+	"nb_classes":10,
+	"iterations": 5,
+	"overshoot": 0.8,
+	"is_targeted_attack":0,
+	"target_label":5
+}
+

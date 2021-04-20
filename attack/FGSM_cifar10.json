@@ -1,0 +1,9 @@
+{
+	"channel_axis":1,
+	"nb_classes":10,
+	"epsilons":0.05,
+	"epsilons_max":0.05,
+	"epsilon_steps":1,
+	"is_targeted_attack":0
+}
+

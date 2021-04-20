@@ -1,0 +1,12 @@
+{
+	"channel_axis":1,
+	"nb_classes":10,
+	"max_iter": 1000,
+    "theta": 0.3,
+    "max_perturbations_per_pixel": 7,
+    "fast":1,
+	"two_pix":0,
+	"is_targeted_attack":1,
+	"target_label":5
+}
+

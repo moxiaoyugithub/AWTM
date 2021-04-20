@@ -1,0 +1,17 @@
+{
+	"g_times":1,
+	"d_times":1,
+    "ec_times":1,
+    
+    "g_lr": 0.0005,
+    "d_lr": 0.0001,
+    "ec_lr":0.0001,
+
+	"lambda_gp":10,
+	"lambd_ad":10,
+    "lambd_img":1,
+    
+    "nb_classes":10,
+    "epochs":70,
+    "batch_size":128
+}
